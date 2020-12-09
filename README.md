@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi，我是 CoderGeshu ——葛数，一个热爱生活的程序员，目前主要学习 Java 后端开发技术，让我们来交个朋友吧！
+
+### 📫 CONTACT ME
+
+[微信公众号@CoderGeshu](https://mp.weixin.qq.com/s/IziWp01QgxlSUUuICP6_FQ)
+
+### 🔭 MOTTO
+
+一个人可以走的很快，而一群人可以走的很远。
