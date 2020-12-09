@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 <!--
 **CoderGeshu/CoderGeshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi，我是 CoderGeshu —— 葛数，一个热爱生活的程序员，目前主要学习 Java 后端开发技术，让我们来交个朋友吧！
+Hi，我是 CoderGeshu —— 葛数，一个热爱生活的程序员，目前主要学习 Java 后端开发技术，让我们来交个朋友吧！
 
 ### 📫 CONTACT ME
 
