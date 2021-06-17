@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi，我是 CoderGeshu『 英文名：Eric 』，一个热爱生活的程序员，目前主要学习 Java 后端开发技术，让我们来交个朋友吧！
+哈喽，大家好，我是葛数『Eric』，一位爱养爬的程序猿，目前主要学习 Java 后端开发技术，会一点前端知识，让我们来交个朋友，一起学习进步呗~~
 
 ### 📫 CONTACT ME
 
