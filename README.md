@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-哈喽，大家好，我是葛数『 Eric 』，一位热爱技术更热爱生活的 Coder，目前主要学习 Java 后端开发技术，会一点前端知识，让我们来交个朋友，一起学习进步吧~~
+哈喽，大家好，我是葛叔『 Eric 』，一位热爱技术更热爱生活的 Coder，目前主要学习 Java 后端开发技术，会一点前端知识，让我们来交个朋友，一起学习进步吧~~
 
 ### 📫 CONTACT ME
 
