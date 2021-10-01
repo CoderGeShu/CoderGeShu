@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 ### 🔭 MOTTO
 
 一个人可以走的很快，而一群人可以走的很远。
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderGeshu)](https://github.com/anuraghazra/github-readme-stats)
+
