@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hello, I'm CoderGeshu, who loves technology and loves life more. 
 At present, I mainly study Java back-end development technology and know a little front-end knowledge. 
-Let's make friends and learn and progress together 🤞
+Let's make friends and learn and progress together. 🤞
 
 ### 📫 Contact Me
 
