@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 
 ### 📫 Contact Me
 
-[微信公众号@CoderGeshu](https://mp.weixin.qq.com/s/IziWp01QgxlSUUuICP6_FQ)
+[WeChat Official Account @CoderGeshu](https://mp.weixin.qq.com/s/IziWp01QgxlSUUuICP6_FQ)
 
 ### 🔭 MOTTO
 
 一个人可以走的很快，而一群人可以走的很远。
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderGeshu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoderGeshu&repo=blogs)](https://github.com/CoderGeshu/blogs)
+
 
