@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 哈喽，大家好，我是葛叔『 Eric 』，一位热爱技术更热爱生活的 Coder，目前主要学习 Java 后端开发技术，会一点前端知识，让我们来交个朋友，一起学习进步吧~~
 
-### 📫 CONTACT ME
+### 📫 Contact Me
 
 [微信公众号@CoderGeshu](https://mp.weixin.qq.com/s/IziWp01QgxlSUUuICP6_FQ)
 
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 一个人可以走的很快，而一群人可以走的很远。
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderGeshu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderGeshu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
