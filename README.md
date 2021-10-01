@@ -28,4 +28,4 @@ One person can go very fast, while a group of people can go very far.
 
 ***
 
-<img src="https://github-readme-stats.vercel.app/api?username=CoderGeshu&show_icons=true&theme=radical&hide=issues,contribs" alt="CoderGeshu's GitHub stats" /> <img style="width:375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGeshu&layout=compact&theme=radical" alt="Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CoderGeshu&show_icons=true&theme=radical&hide=prs,issues,contribs" alt="CoderGeshu's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGeshu&layout=compact&theme=radical" alt="Top Langs"/>
