@@ -27,5 +27,4 @@ Let's make friends and learn and progress together 🤞
 One person can go very fast, while a group of people can go very far.
 
 ***
-
-<img src="https://github-readme-stats.vercel.app/api?username=CoderGeshu&show_icons=true&theme=material-palenight&hide=issues,contribs" alt="CoderGeshu's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGeshu&layout=compact&theme=material-palenight" alt="Top Langs"/>
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderGeshu&show_icons=true&theme=material-palenight&hide=issues,contribs)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGeshu&layout=compact&theme=material-palenight)](https://github.com/CoderGeshu)
