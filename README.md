@@ -14,18 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-哈喽，大家好，我是葛叔『 Eric 』，一位热爱技术更热爱生活的 Coder，目前主要学习 Java 后端开发技术，会一点前端知识，让我们来交个朋友，一起学习进步吧~~
+Hello, I'm CoderGeshu, who loves technology and loves life more. 
+At present, I mainly study Java back-end development technology and know a little front-end knowledge. 
+Let's make friends and learn and progress together 🤞
 
 ### 📫 Contact Me
 
 [WeChat Official Account @CoderGeshu](https://mp.weixin.qq.com/s/IziWp01QgxlSUUuICP6_FQ)
 
-### 🔭 MOTTO
+### 🔭 Motto
 
-一个人可以走的很快，而一群人可以走的很远。
+One person can go very fast, while a group of people can go very far.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderGeshu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+***
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoderGeshu&repo=blogs&show_icons=true&theme=flag-india)](https://github.com/CoderGeshu/blogs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderGeshu&show_icons=true&hide=stars,commits,prs&theme=radical)](https://github.com/CoderGeshu/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGeshu&layout=compact)](https://github.com/CoderGeshu/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoderGeshu&repo=blogs&theme=flag-india)](https://github.com/CoderGeshu/blogs)
