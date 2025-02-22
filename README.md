@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, I'm Eric, A Life-loving Coder. 
-Let's make friends and learn together. 🤞
+Let's make friends and learn together.
 
 ### 📫 Contact Me
 
