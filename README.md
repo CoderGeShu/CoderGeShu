@@ -1,7 +1,7 @@
 ### 👋 Hi Here
 
 <!--
-**CoderGeshu/CoderGeshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CoderGeShu/CoderGeShu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm CoderGeshu(Eric), who loves technology and loves life more. 
-At present, I mainly study Java back-end development technology and know a little front-end knowledge. 
-Let's make friends and learn and progress together. 🤞
+Hi, I'm Eric, A Life-loving Coder. 
+Let's make friends and learn together. 🤞
 
 ### 📫 Contact Me
 
-[WeChat Official Account @CoderGeshu](https://mp.weixin.qq.com/s/IziWp01QgxlSUUuICP6_FQ)
+[WeChat Official Account @CoderGeShu](https://mp.weixin.qq.com/s/IziWp01QgxlSUUuICP6_FQ)
 
 ### 🔭 Motto
 
 One person can go very fast, while a group of people can go very far.
 
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGeshu&layout=compact&theme=material-palenight)](https://github.com/CoderGeshu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGeShu&layout=compact&theme=material-palenight)](https://github.com/CoderGeShu)
