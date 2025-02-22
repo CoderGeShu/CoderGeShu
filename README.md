@@ -19,7 +19,7 @@ Let's make friends and learn together. 🤞
 
 ### 📫 Contact Me
 
-WeChat Official Account: CoderGeShu
+WeChat Official Account [@CoderGeShu](https://mp.weixin.qq.com/s/ZHMNezzDxgwkrif-nPOLIA)
 
 ### 🔭 Motto
 
